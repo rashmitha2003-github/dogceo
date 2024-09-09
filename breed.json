@@ -1,0 +1,56 @@
+[
+    {
+        "breedId": "B101",
+        "breedName": "Golden Retriever",
+        "description": "Friendly, intelligent, and devoted. Great family dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Scotland",
+        "imageUrl": "https://example.com/images/golden_retriever.jpg"
+    },
+    {
+        "breedId": "B102",
+        "breedName": "Labrador Retriever",
+        "description": "Energetic, outgoing, and affectionate. Ideal for active families.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Canada",
+        "imageUrl": "https://example.com/images/labrador_retriever.jpg"
+    },
+    {
+        "breedId": "B103",
+        "breedName": "Beagle",
+        "description": "Curious, friendly, and merry. Great with children and other pets.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "England",
+        "imageUrl": "https://example.com/images/beagle.jpg"
+    },
+    {
+        "breedId": "B104",
+        "breedName": "Bulldog",
+        "description": "Calm, courageous, and friendly. Known for its distinctive wrinkled face.",
+        "size": "Medium",
+        "lifespan": "8-10 years",
+        "origin": "England",
+        "imageUrl": "https://example.com/images/bulldog.jpg"
+    },
+    {
+        "breedId": "B105",
+        "breedName": "Siberian Husky",
+        "description": "Energetic, friendly, and outgoing. Known for its striking blue eyes and thick coat.",
+        "size": "Large",
+        "lifespan": "12-15 years",
+        "origin": "Siberia",
+        "imageUrl": "https://example.com/images/siberian_husky.jpg"
+    },
+    {
+        "breedId": "B106",
+        "breedName": "Poodle",
+        "description": "Intelligent, active, and alert. Comes in three sizes: Standard, Miniature, and Toy.",
+        "size": "Small to Large",
+        "lifespan": "12-15 years",
+        "origin": "Germany",
+        "imageUrl": "https://example.com/images/poodle.jpg"
+    }
+]
